@@ -1,0 +1,30 @@
+body {
+	background-color: white;
+	text-align: center;
+}
+
+h1{
+	color: #4169E1;
+    font-family: 'Permanent Marker', cursive;
+}
+
+h2, h3{
+    font-family: 'Cagliostro', sans-serif;
+	color: blue;
+}
+
+a {
+	text-decoration: none;
+	color: black;
+	background-color: white;
+    font-family: 'Cagliostro', sans-serif;
+    padding: 10px;
+    margin-top: 5px;
+}
+p{
+    font-family: 'Cagliostro', sans-serif;
+    color: #66CDAA;
+}
+
+
+
